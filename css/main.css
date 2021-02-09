@@ -1,0 +1,26 @@
+body{
+	background:#f0f2f5;
+	box-sizing:border-box;
+	
+}
+#mynav{
+		padding:8px;
+		font-weight:bold;
+		font-size:15px;
+	}
+.myctn{
+	margin-top:40px;
+	max-width:400px;
+	height:400px;
+	margin:auto;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+form{
+	padding:40px;
+}
+.col-md-6{
+	margin-top:80px;
+}
+.frm{
+	margin-top:15px;
+}
